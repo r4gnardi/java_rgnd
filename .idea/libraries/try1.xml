@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="try1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/try/build/libs/try.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
